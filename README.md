@@ -14,3 +14,14 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+
+## Contributors
+
+The following contributor information was added to this README as requested.
+
+- Name: Vipul Mahajan (assumed)
+- GitHub username: `vipulmahajan1988`
+- Timestamp: 2025-11-03T00:00:00Z (UTC)
+
+If you'd like a different display name, username, or a different timestamp format, tell me and I will update it.
+
